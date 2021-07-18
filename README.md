@@ -1,8 +1,8 @@
 # Work Day Scheduler
-Screen shot/s
+Screen shot/s 
+https://tomhabt.github.io/day-work-scheduler-web/
 
-## Purpose
-Create a simple calendar application that allows a user to save events for each hour of the day.
+Create a simple calendar application that allows a user to save events for each hour of the day between 9AM to 5PM.
 
 ## User Story
 AS AN employee with a busy schedule
@@ -33,7 +33,7 @@ THEN the saved events persist
 * Moment.JS
 
 ## Website
-
+My  site is published at https://tomhabt.github.io/day-work-scheduler-web/
 
 ## Contribution
 made by Thomas Habtemariam
